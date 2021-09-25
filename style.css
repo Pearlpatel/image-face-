@@ -1,0 +1,27 @@
+body{
+  
+    background-image: linear-gradient(to right top, #d47c4e, #e26c67, #e36288, #d363ac, #af6ece, #8f83e7, #6396f7, #00a7ff, #00bfff, #00d1e8, #00dfb7, #44e77b);
+}
+#header{
+    font-weight: 700;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgba(238, 237, 237, 0.986);
+}
+button{
+background-color:#EAA4BF;
+border-color: black;
+font-size: medium;
+color:black;
+}
+#object_name,#object_name2{
+    color: black;
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#camera,#result{
+    border-style:dashed;
+    border-color: black;
+    width: 350px;
+    height:350px;
+}
